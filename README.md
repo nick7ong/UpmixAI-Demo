@@ -1,7 +1,7 @@
 # UpmixAI-Demo
 ### Quick Links
 - Try it out for yourself here --> [upmixai.glitch.me](https://upmixai.glitch.me/)
-- Check out some examples of upmixed audio in the examples folder here -->
+- Check out some examples of upmixed audio in the examples folder here --> [examples](https://github.com/nick7ong/UpmixAI-Demo/tree/main/examples)
   
 ### Stereo-to-Surround Sound Upmixing Using a Hybrid AI and Ambience Extraction Algorithm
 A critical step in upmixing stereo content to a higher channel format lies in decomposing the stereo signal into distinct musical stems. Existing stereo-to-surround sound upmixing algorithms employ methods such as passive surround decoding (PSD) and primary-ambience extraction (PAE). These methods are constrained by audio quality as well as phase and amplitude correlation between the stereo channels, leading to sub-optimal stem extraction. This paper introduces UpmixAI, a hybrid system utilizing artificial intelligence (AI) for primary source separation alongside a frequency-domain auto- and cross-correlation algorithm for ambience extraction. In its design, our system aims to address the limitations found in existing systems by potentially enhancing the accuracy and performance of the primary and ambient stem extraction. Our upmixing solution is delivered through a web-based application, designed for a simple and intuitive user experience. User requests, controller logic and audio processing are handled on an external server to ensure efficient and high-quality conversion from stereo to 5.1 surround sound and beyond. Ultimately, our system aims to democratize spatial audio by making it accessible to a wider audience without the need for extensive technical knowledge or sophisticated software.
