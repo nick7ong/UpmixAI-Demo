@@ -8,7 +8,7 @@ A critical step in upmixing stereo content to a higher channel format lies in de
   
 ### System Diagram
 Below outlines the relationship and interactions between the different components of the system.
-![upmixai-system](https://github.com/nick7ong/UpmixAI/assets/105762930/b8ff3b72-fd7b-41f2-95cc-99a5ad9244b9)
+![tech-stack](https://github.com/nick7ong/UpmixAI-Demo/assets/105762930/bc11516e-4c32-4be3-ac7f-af52b8b6c3d8)
 
 ## The Mixing Algorithms
 This project hosts a variety of upmixing and downmixing algorithms for stereo/surround audio.
