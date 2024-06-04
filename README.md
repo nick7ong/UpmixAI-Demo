@@ -1,5 +1,6 @@
 # UpmixAI-Demo
 ### Quick Links
+- [Video Demo](https://www.youtube.com/watch?v=lpv-bri_Vdw)
 - Try it out for yourself here --> [upmixai.glitch.me](https://upmixai.glitch.me/)
 - Check out some examples of upmixed audio in the examples folder here --> [examples](https://github.com/nick7ong/UpmixAI-Demo/tree/main/examples)
   
